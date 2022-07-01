@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **ReactJs, React Native,**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **kharismaaufa22@gmail.com**
 
 - ⚡ Fun fact **I think I am Foolish**
