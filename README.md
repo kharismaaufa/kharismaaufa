@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Kharisma Aufa R</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://gfycat.com/angelicconcretehypsilophodon-programming-coding"
+<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kharismaaufa&label=Profile%20views&color=0e75b6&style=flat" alt="kharismaaufa" /> </p>
 
